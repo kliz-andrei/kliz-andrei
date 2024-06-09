@@ -15,6 +15,9 @@ Welcome to my GitHub profile! I am an aspiring data scientist and analyst with a
 - **Udemy Course Data Analysis:** Visualizing data from a 'course_data' dataset, focusing on detailed analysis using binning and pseudocolor plots.
 - **RealWorldDataset_Chicago**: Chicago Public Schools - Progress Report Cards (2011-2012)¶ The city of Chicago released a dataset showing all school level performance data used to create School Report Cards for the 2011-2012 school year. The dataset is available from the Chicago Data Portal:
 
+### Webscraping and automation
+- **Google Stock Automation** The primary goal of this project is to analyze the stock price trends of Alphabet Inc. (GOOGL) over a specified period. By leveraging web scraping techniques and historical data analysis, the project aims to provide a comprehensive overview of Google’s stock performance, highlighting key metrics such as current price, price change, percentage change, and market time notices. I used BeatifulSoup to extract data from yahoo finance and use python to automate the details about google stocks. 
+
 ## Skills and Tools
 - **Programming Languages:** Python, SQL, R
 - **Data Analysis Tools:** Excel, Jupyter Notebook
